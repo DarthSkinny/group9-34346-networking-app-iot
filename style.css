@@ -1,0 +1,13 @@
+body {
+    background-image: url('farm_background.jpg'); /* Ensure the filename matches your image */
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the background image */
+    color: purple; /* Ensures text is readable */
+    text-align: center; /* Center the text horizontally */
+    height: 100vh; /* Minimum height to cover the viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content to the top */
+    align-items: center; /* Center content horizontally */
+    padding-top: 20px; /* Add some space at the top */
+}
